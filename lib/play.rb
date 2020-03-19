@@ -41,9 +41,9 @@ def play(board)
   count = 0;
   while count < 10 
   turn(board)
-  count ++
+  count + = 1
 end
-
+end
 
 
 

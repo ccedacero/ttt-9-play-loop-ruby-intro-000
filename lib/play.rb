@@ -43,7 +43,6 @@ def play(board)
   turn(board)
   count ++
 end
-end
 
 
 
